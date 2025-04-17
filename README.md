@@ -1,2 +1,2 @@
-# RE-G3
-Software Requirement Engineering
+# Campus Wellness Portal with Medical System and Fitness Center Integration
+This project involves developing a wellness platform that integrates with the university health center's appointment system and campus recreation facility management software. The system will enable students to manage their holistic wellness by scheduling health center appointments, booking fitness classes, tracking personal wellness goals, and receiving tailored health resources.
