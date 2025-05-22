@@ -15,20 +15,21 @@ This project aims to develop a **Campus Wellness Portal (CWP)** that provides an
 ## 📂 Repository Structure
 
 ```plaintext
-📁 TT6L_G3_SRS/
-├── README.md
-├── SRS/
-│   └── TT6L_G3_SRS.pdf              # Software Requirements Specification Document
+📁 TT6L_G3_Requirements_Projects/
+├── ContextObjects
+|   └── TT6L_G3_ContextObjects.docx
 ├── Elicitation/
-│   ├── KanoModel.md                # Elicitation planning using the Kano model
-│   ├── Questionnaires/
-│   │   └── StakeholderResponses.pdf
-├── Diagrams/
-│   ├── UseCaseDiagram.png
-│   ├── ClassDiagram.png
-│   └── SequenceDiagrams/
-├── Glossary.md
-├── Requirements/
-│   └── RequirementsMatrix.xlsx     # Requirement IDs and traceability
-└── Team/
-    └── TeamMembers.md              # Group member contributions
+|   ├── TT6L_G3_ElicitationPlan.docx
+│   └── TT6L_G3_KanoModel.docx
+├── ProjectPriliminary/
+│   └── TT6L_G3_ProjectVision.docx
+├── SRS/
+│   ├── TT6L_G3_SRS.docx
+|   ├── TT6L_G3_SRS_v1.0.docx
+│   ├── TT6L_G3_SRS_v2.0.docx
+│   └── TT6L_G3_SRS_v3.0.docx
+├── TeamFormation/
+|   └── TT6L_G3_TeamFormation.docx
+├── README.md
+├── TT6L_G3_Discussions.docx
+└── TT6L_G3_VersionControl.md
