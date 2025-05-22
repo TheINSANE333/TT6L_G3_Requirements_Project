@@ -17,19 +17,19 @@ This project aims to develop a **Campus Wellness Portal (CWP)** that provides an
 ```plaintext
 📁 TT6L_G3_Requirements_Projects/
 ├── ContextObjects
-|   └── TT6L_G3_ContextObjects.docx
+|   └── TT6L_G3_ContextObjects.docx         #Task 2
 ├── Elicitation/
-|   ├── TT6L_G3_ElicitationPlan.docx
-│   └── TT6L_G3_KanoModel.docx
+|   ├── TT6L_G3_ElicitationPlan.docx        #Task 3
+│   └── TT6L_G3_ElicitationExecution.docx   #Task 4
 ├── ProjectPriliminary/
-│   └── TT6L_G3_ProjectVision.docx
-├── SRS/
+│   └── TT6L_G3_ProjectVision.docx          #Task 1
+├── SRS/                                    #Task 5
 │   ├── TT6L_G3_SRS.docx
 |   ├── TT6L_G3_SRS_v1.0.docx
 │   ├── TT6L_G3_SRS_v2.0.docx
 │   └── TT6L_G3_SRS_v3.0.docx
 ├── TeamFormation/
-|   └── TT6L_G3_TeamFormation.docx
+|   └── TT6L_G3_TeamFormation.docx          #Task 1
 ├── README.md
-├── TT6L_G3_Discussions.docx
+├── TT6L_G3_Discussions.docx                #Task 1
 └── TT6L_G3_VersionControl.md
