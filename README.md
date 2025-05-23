@@ -17,19 +17,30 @@ This project aims to develop a **Campus Wellness Portal (CWP)** that provides an
 ```plaintext
 📁 TT6L_G3_Requirements_Projects/
 ├── ContextObjects
-|   └── TT6L_G3_ContextObjects.docx         #Task 2
+|   └── TT6L_G3_ContextObjects[Task2].docx
 ├── Elicitation/
-|   ├── TT6L_G3_ElicitationPlan.docx        #Task 3
-│   └── TT6L_G3_ElicitationExecution.docx   #Task 4
+|   ├── TT6L_G3_ElicitationPlan[Task3].docx
+│   └── TT6L_G3_ElicitationExecution[Task4].docx
 ├── ProjectPriliminary/
-│   └── TT6L_G3_ProjectVision.docx          #Task 1
-├── SRS/                                    #Task 5
+│   └── TT6L_G3_ProjectVision[Task1].docx
+├── SRS/
 │   ├── TT6L_G3_SRS.docx
+|   ├── TT6L_G3_SRS[Task5].docx
 |   ├── TT6L_G3_SRS_v1.0.docx
 │   ├── TT6L_G3_SRS_v2.0.docx
 │   └── TT6L_G3_SRS_v3.0.docx
-├── TeamFormation/
-|   └── TT6L_G3_TeamFormation.docx          #Task 1
+├── Project_Part_1_Submission/
+|   ├──PDF/
+|   |  ├── TT6L_G3_ContextObjects[Task2].pdf
+|   |  ├── TT6L_G3_ElicitationExecution[Task4].pdf
+|   |  ├── TT6L_G3_ElicitationPlan[Task3].pdf
+|   |  ├── TT6L_G3_ProjectVision[Task1].pdf
+|   |  └── TT6L_G3_SRS[Task5].pdf
+|   ├── TT6L_G3_ContextObjects[Task2].docx
+|   ├── TT6L_G3_ElicitationExecution[Task4].docx
+|   ├── TT6L_G3_ElicitationPlan[Task3].docx
+|   ├── TT6L_G3_ProjectVision[Task1].docx
+|   └── TT6L_G3_SRS[Task5].docx
 ├── README.md
-├── TT6L_G3_Discussions.docx                #Task 1
+├── TT6L_G3_Discussions.docx
 └── TT6L_G3_VersionControl.md
