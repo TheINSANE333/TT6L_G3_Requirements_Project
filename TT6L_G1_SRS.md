@@ -1,6 +1,4 @@
-![A blue and black logo Description automatically
-generated](media/image33.png){width="6.267716535433071in"
-height="2.1666666666666665in"}
+![MMU LOGO](src/mmu_logo.png)
 
 **CSE6224 SOFTWARE REQUIREMENTS ENGINEERING**
 
@@ -17,7 +15,12 @@ Integration.**
 |----------------------------------------|----------------|
 | Tham Yong Shian                        | 1211108856     |
 | Ahmad Farhan Zikri Bin Ahmad Fara      | 1171101842     |
-| Mohamad Ammarul Azim Bin Mohamad Yusof | 1201100845     |
+| Mohamad Ammarul Azim Bin Mohamad Yusof | 1201100845     |                                               
+| **Part 2**                                              |
+| Lee Xiang Ze                           | 1211106818     |
+| Yeoh Han Yi                            | 1211106319     |
+| Ng Jin Mun                             | 1201100845     |
+| Yu Ting Hui                            | 1201100845     |
 
 # **Table of contents**
 
@@ -234,8 +237,7 @@ access to medical services, fitness programs, and personalized wellness
 tools. The following diagram illustrates the architecture and key
 components of the CWP system.
 
-![](media/image8.png){width="3.6265583989501313in"
-height="5.649599737532808in"}
+![](src/F1.1.png)
 
 Figure 1.1 System Overview Diagram
 
@@ -287,8 +289,7 @@ emotional well-being.
 
   - Submit feedback to improve system functionality.
 
-![](media/image22.png){width="6.267716535433071in"
-height="3.6527777777777777in"}
+![](src/F1.1.png)
 
 Figure 1.2 System Context Diagram
 
@@ -305,14 +306,13 @@ coordinators.
 This is the overall use case diagram that shows all use case for all
 actors
 
-### ![](media/image31.png){width="6.267716535433071in" height="6.472222222222222in"}
+### ![](src/F1.3.png)
 
 Figure 1.3: Use Case Diagram of the Campus Wellness Portal
 
 #### 1.3.2.1 Student {#student}
 
-![](media/image3.jpg){width="4.444444444444445in"
-height="6.569444444444445in"}
+![](src/F1.4.jpg)
 
 Figure 1.4: Use Case Diagram of Actor (Student)
 
@@ -333,8 +333,7 @@ Table 1.1: Use Case Diagram of Actor (Student)
 
 #### 1.3.2.2 Medical Staff {#medical-staff}
 
-![](media/image2.jpg){width="4.069444444444445in"
-height="6.111111111111111in"}
+![](src/F1.5.jpg)
 
 Figure 1.5: Use Case Diagram of Actor (Medical Staff)
 
@@ -355,8 +354,7 @@ Table 1.2: Use Case Diagram of Actor (Medical Staff)
 
 #### 1.3.2.3 Fitness Coordinator {#fitness-coordinator}
 
-![](media/image24.jpg){width="3.652600612423447in"
-height="5.7803280839895015in"}
+![](src/F1.6.jpg)
 
 Figure 1.6: Use Case Diagram of Actor (Fitness Coordinator)
 
@@ -375,7 +373,7 @@ Table 1.3: Use Case Diagram of Actor (Medical Staff)
 
 #### 1.3.2.4 System Admin {#system-admin}
 
-![](media/image32.jpg){width="2.875in" height="5.111111111111111in"}
+![](src/F1.7.jpg)
 
 Figure 1.7: Use Case Diagram of Actor (System Admin)
 
@@ -392,8 +390,7 @@ Table 1.4: Use Case Diagram of Actor System Admin)
 
 #### 1.3.2.5 Fitness Software System {#fitness-software-system}
 
-![](media/image13.jpg){width="3.4444444444444446in"
-height="5.111111111111111in"}
+![](src/F1.8.jpg)
 
 Figure 1.8: Use Case Diagram of Actor (Fitness Software System)
 
@@ -410,8 +407,7 @@ Table 1.5: Use Case Diagram of Actor (Fitness Software System)
 
 #### 1.3.2.6 Medical Software System {#medical-software-system}
 
-![](media/image9.jpg){width="3.5694444444444446in"
-height="5.069444444444445in"}
+![](src/F1.9.jpg)
 
 Figure 1.9: Use Case Diagram of Actor (Medical Software System)
 
@@ -625,8 +621,7 @@ to access the portal.</th>
 </tbody>
 </table>
 
-![](media/image52.png){width="6.267716535433071in"
-height="5.819444444444445in"}
+![](src/F3.1.png)
 
 Figure 3.1 Login Sequence Diagram
 
@@ -700,8 +695,7 @@ are returned.</th>
 </tbody>
 </table>
 
-![](media/image23.png){width="6.267716535433071in"
-height="5.847222222222222in"}
+![](src/F3.2.png)
 
 Figure 3.2 Register Sequence Diagram
 
@@ -770,8 +764,7 @@ time slot.</th>
 </tbody>
 </table>
 
-![](media/image34.png){width="6.267716535433071in"
-height="5.138888888888889in"}
+![](src/F3.3.png)
 
 Figure 3.3 Schedule Appointment Sequence Diagram
 
@@ -846,8 +839,7 @@ denies time slot.</th>
 </tbody>
 </table>
 
-![](media/image53.png){width="5.575548993875765in"
-height="6.692708880139983in"}
+![](src/F3.4.png)
 
 Figure 3.4 Book Fitness Sequence Diagram
 
@@ -919,8 +911,7 @@ track goal function.</th>
 </tbody>
 </table>
 
-![](media/image37.png){width="5.463542213473316in"
-height="6.053459098862642in"}
+![](src/F3.5.png)
 
 Figure 3.5 Set Goals Sequence Diagram
 
@@ -988,8 +979,9 @@ in the time slot.</p>
 </tbody>
 </table>
 
-![](media/image36.png){width="5.902600612423447in"
-height="4.912095363079615in"}Figure 3.6 View Timetable Sequence Diagram
+![](src/F3.6.png)
+
+Figure 3.6 View Timetable Sequence Diagram
 
 ####   {#section-11}
 
@@ -1058,7 +1050,7 @@ purposes.</th>
 </tbody>
 </table>
 
-![](media/image28.png){width="5.375in" height="4.395833333333333in"}
+![](src/F3.7.png)
 
 Figure 3.7 Watch Content Sequence Diagram
 
@@ -1126,8 +1118,7 @@ page.</p>
 
 #### ** ** {#section-12}
 
-![](media/image18.png){width="5.791666666666667in"
-height="5.333333333333333in"}
+![](src/F3.8.png)
 
 Figure 3.8 View Health Advice Sequence Diagram
 
@@ -1190,9 +1181,9 @@ Figure 3.8 View Health Advice Sequence Diagram
 
 ####  {#section-14}
 
-![](media/image50.png){width="6.267716535433071in"
-height="5.138888888888889in"}Figure 3.9 Access Online Chat Sequence
-Diagram
+![](src/F3.9.png)
+
+Figure 3.9 Access Online Chat Sequence Diagram
 
 ####   {#section-15}
 
@@ -1257,9 +1248,9 @@ empty.</th>
 
 ####  {#section-16}
 
-![](media/image49.png){width="5.791666666666667in"
-height="4.083333333333333in"}**  
-**Figure 3.10 Submit Feedback Sequence Diagram
+![]src/F3.10.png)
+
+Figure 3.10 Submit Feedback Sequence Diagram
 
 ####   {#section-17}
 
@@ -1324,8 +1315,7 @@ denial.</th>
 
 ####  {#section-18}
 
-![](media/image20.png){width="6.267716535433071in"
-height="6.152777777777778in"}
+![](src/F3.11.png)
 
 Figure 3.11 Manage Appointment Sequence Diagram
 
@@ -1397,7 +1387,7 @@ Figure 3.11 Manage Appointment Sequence Diagram
 
 ####  {#section-20}
 
-![](media/image21.png){width="6.267716535433071in" height="5.25in"}
+![](src/F3.12.png)
 
 Figure 3.12 Medical Record Sequence Diagram
 
@@ -1461,8 +1451,7 @@ students.</th>
 
 ####  {#section-22}
 
-![](media/image41.png){width="5.699475065616798in"
-height="4.857390638670166in"}
+![](src/F3.13.png)
 
 Figure 3.13 Send Health Advice Sequence Diagram
 
@@ -1523,8 +1512,7 @@ Figure 3.13 Send Health Advice Sequence Diagram
 
 ####  {#section-23}
 
-![](media/image17.png){width="5.548433945756781in"
-height="5.755323709536308in"}
+![](src/F3.14.png)
 
 Figure 3.14 Monitor Student Progress Sequence Diagram
 
@@ -1587,8 +1575,7 @@ Figure 3.14 Monitor Student Progress Sequence Diagram
 
 ####  {#section-25}
 
-![](media/image25.png){width="5.713542213473316in"
-height="4.86884842519685in"}
+![](src/F3.15.png)
 
 Figure 3.15 Post Media Sequence Diagram
 
@@ -1658,8 +1645,7 @@ Figure 3.15 Post Media Sequence Diagram
 
 ####  {#section-26}
 
-![](media/image39.png){width="6.267716535433071in"
-height="5.986111111111111in"}
+![](src/F3.16.png)
 
 Figure 3.16 Assign Fitness Class Sequence Diagram
 
@@ -1723,8 +1709,7 @@ Figure 3.16 Assign Fitness Class Sequence Diagram
 
 ####  {#section-27}
 
-![](media/image40.png){width="5.590100612423447in"
-height="5.3848687664042in"}
+![](src/F3.17.png)
 
 Figure 3.17 Manage Fitness Class Booking Sequence Diagram
 
@@ -1794,8 +1779,7 @@ password.</p>
 
 ####  {#section-29}
 
-![](media/image43.png){width="5.8385115923009625in"
-height="5.567708880139983in"}
+![](src/F3.18.png)
 
 Figure 3.18 Add Fitness Class Sequence Diagram
 
@@ -1859,8 +1843,7 @@ Figure 3.18 Add Fitness Class Sequence Diagram
 
 ####  {#section-30}
 
-![](media/image47.png){width="5.776042213473316in"
-height="6.131047681539807in"}
+![](src/F3.19.png)
 
 Figure 3.19 Manage User Account Sequence Diagram
 
@@ -1921,7 +1904,7 @@ health.</th>
 
 ####  {#section-32}
 
-![](media/image44.png){width="5.21875in" height="7.630208880139983in"}
+![](src/F3.20.png)
 
 Figure 3.20 Monitor System Performance Sequence Diagram
 
@@ -1984,8 +1967,7 @@ Figure 3.20 Monitor System Performance Sequence Diagram
 
 ####  {#section-34}
 
-![](media/image54.png){width="5.543225065616798in"
-height="6.739583333333333in"}
+![](src/F3.21.png)
 
 Figure 3.21 Manage Content Updates Sequence Diagram
 
@@ -2277,9 +2259,9 @@ Campus Wellness Portal must store and manage. It provides a foundation
 for the system's database design using entities, attributes, and
 associations.
 
-## ![](media/image35.png){width="6.267716535433071in" height="4.444444444444445in"} {#section-43}
+## ![](src/F3.22.png) {#section-43}
 
-Figure 3.5 Class Diagram
+Figure 3.5 Class Diagram (**NAMING PROBLEM**)
 
 ## **3.6 Design Constraints ** {#design-constraints}
 
@@ -2861,15 +2843,13 @@ stakeholders should operate with.</th>
 ![Forms response chart. Question title: 1. How do you feel if an
 identification/credentials is needed to login and/or register an
 account? (Refer to Qa. for requirements briefing). Number of responses:
-21 responses.](media/image19.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+21 responses.](src/F3.23.png)
 
 ![Forms response chart. Question title: 2. How do you feel if you don\'t
 need identification/credentials and need to create a new account to
 login and/or register an account? (Refer to Qa. for requirements
 briefing) . Number of responses: 21
-responses.](media/image30.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.24.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to login using their ID/credentials.
@@ -2883,14 +2863,12 @@ the feature" pie chart winning over a small percentage.
 ![Forms response chart. Question title: 3. How do you feel if you can
 schedule an appointment with a medical professional? (Refer to Qa. for
 requirements briefing) . Number of responses: 21
-responses.](media/image4.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.25.png)
 
 ![Forms response chart. Question title: 4. How do you feel if you cannot
 schedule an appointment with a medical professional? (Refer to Qa. for
 requirements briefing) . Number of responses: 21
-responses.](media/image42.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.26.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to schedule an appointment with a
@@ -2903,14 +2881,12 @@ users can tolerate having the feature be absent.
 ![Forms response chart. Question title: 5. How do you feel if you can
 book a facility and/or fitness class for recreational purposes? (Refer
 to Qa. for requirements briefing) . Number of responses: 21
-responses.](media/image51.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.27.png)
 
 ![Forms response chart. Question title: 6. How do you feel if you cannot
 book a facility and/or fitness class for recreational purposes? (Refer
 to Qa. for requirements briefing) . Number of responses: 21
-responses.](media/image16.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.28.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to book a fitness class. From both the
@@ -2923,14 +2899,12 @@ feature be absent.
 ![Forms response chart. Question title: 7. How do you feel if you can
 view your upcoming appointments as well as previous appointments in a
 timetable form? (Refer to Qa. for requirements briefing) . Number of
-responses: 21 responses.](media/image15.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses: 21 responses.](src/F3.29.png)
 
 ![Forms response chart. Question title: 8. How do you feel if you cannot
 view your upcoming appointments as well as previous appointments in a
 timetable form? (Refer to Qa. for requirements briefing) . Number of
-responses: 21 responses.](media/image7.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses: 21 responses.](src/F3.30.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to view upcoming and previous
@@ -2944,14 +2918,12 @@ can tolerate the absence of said feature to be tied.
 ![Forms response chart. Question title: 9. How do you feel if you can
 set and track your personal goal? (Refer to Qa. for requirements
 briefing) . Number of responses: 21
-responses.](media/image46.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.31.png)
 
 ![Forms response chart. Question title: 10. How do you feel if you
 cannot set and track your personal goal? (Refer to Qa. for requirements
 briefing) . Number of responses: 21
-responses.](media/image29.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.32.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to set and track personal goals. From
@@ -2959,18 +2931,17 @@ both the pie charts provided, it is obvious that a majority of users
 would like the feature to be added and a majority of users are neutral
 about having the feature be absent.
 
-**Requirement 6: Receive personalized health content**![Forms response
-chart. Question title: 11. How do you feel if you can receive
+**Requirement 6: Receive personalized health content**
+
+![Forms response chart. Question title: 11. How do you feel if you can receive
 personalized health content? (Refer to Qa. for requirements briefing) .
 Number of responses: 21
-responses.](media/image6.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.33.png)
 
 ![Forms response chart. Question title: 12. How do you feel if you
 cannot receive personalized health content? (Refer to Qa. for
 requirements briefing) . Number of responses: 21
-responses.](media/image1.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.34.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to receive personal health content.
@@ -2983,14 +2954,12 @@ neutral about having the feature be absent.
 ![Forms response chart. Question title: 13. How do you feel if you can
 watch personalized media content? (Refer to Qa. for requirements
 briefing) . Number of responses: 21
-responses.](media/image12.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.35.png)
 
 ![Forms response chart. Question title: 14. How do you feel if you
 cannot watch personalized media content? (Refer to Qa. for requirements
 briefing) . Number of responses: 21
-responses.](media/image11.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.36.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to watch and enjoy personalized media
@@ -3004,14 +2973,12 @@ neutral about the absence of said feature.
 ![Forms response chart. Question title: 15. How do you feel if you can
 chat with online support? (Refer to Qa. for requirements briefing) .
 Number of responses: 21
-responses.](media/image38.png){width="6.267716535433071in"
-height="2.638888888888889in"}
+responses.](src/F3.37.png)
 
 ![Forms response chart. Question title: 16. How do you feel if you
 cannot chat with online support? (Refer to Qa. for requirements
 briefing) . Number of responses: 21
-responses.](media/image26.png){width="6.267716535433071in"
-height="2.638888888888889in"}
+responses.](src/F3.38.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to chat with online support. From both
@@ -3024,14 +2991,12 @@ feature, where users are conflicted on either disliking or neutral.
 ![Forms response chart. Question title: 17. How do you feel if you can
 receive notifications about upcoming activities in your schedule? (Refer
 to Qa. for requirements briefing) . Number of responses: 21
-responses.](media/image27.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.39.png)
 
 ![Forms response chart. Question title: 18. How do you feel if you
 cannot receive notifications about upcoming activities in your schedule?
 (Refer to Qa. for requirements briefing) . Number of responses: 21
-responses.](media/image5.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.40.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to receive notifications and reminders
@@ -3040,18 +3005,17 @@ shocking to see users conflicted on either liking or expecting the
 feature. However, it is clear that users dislike the absence of
 receiving any notifications.
 
-**Requirement 10: Search for free time slot**![Forms response chart.
-Question title: 19. How do you feel if you can search for free time
+**Requirement 10: Search for free time slot**
+
+![Forms response chart. Question title: 19. How do you feel if you can search for free time
 slots for recreational purposes? (Refer to Qa. for requirements
 briefing) . Number of responses: 21
-responses.](media/image10.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.41.png)
 
 ![Forms response chart. Question title: 20. How do you feel if you
 cannot search for free time slots for recreational purposes? (Refer to
 Qa. for requirements briefing) . Number of responses: 21
-responses.](media/image48.png){width="6.267716535433071in"
-height="2.8472222222222223in"}
+responses.](src/F3.42.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to search for free time slots. From
@@ -3063,13 +3027,11 @@ dislike the absence of receiving any notifications.
 
 ![Forms response chart. Question title: How do you feel if you can
 submit feedback?. Number of responses: 21
-responses.](media/image14.png){width="6.267716535433071in"
-height="2.638888888888889in"}
+responses.](src/F3.43.png)
 
 ![Forms response chart. Question title: How do you feel if you cannot
 submit feedback?. Number of responses: 21
-responses.](media/image45.png){width="6.267716535433071in"
-height="2.638888888888889in"}
+responses.](src/F3.44.png)
 
 The question was aimed to gather feedback from users (student
 stakeholder) regarding the option to submit user feedback. From both the
