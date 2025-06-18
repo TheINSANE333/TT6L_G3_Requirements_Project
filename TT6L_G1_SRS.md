@@ -19,8 +19,8 @@ Integration.**
 | **Part 2**                                              |
 | Lee Xiang Ze                           | 1211106818     |
 | Yeoh Han Yi                            | 1211106319     |
-| Ng Jin Mun                             | 1201100845     |
-| Yu Ting Hui                            | 1201100845     |
+| Ng Jin Mun                             | 241UC240BF     |
+| Yu Ting Hui                            | 241UC240ZD     |
 
 # **Table of contents**
 
